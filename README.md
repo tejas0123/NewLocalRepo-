@@ -1,1 +1,1 @@
-Hey there!, this is my projects repository
+A simple malware scanner, implementing Signature-based malware detection.
